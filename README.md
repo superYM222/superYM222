@@ -17,8 +17,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </p> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superYM222&show_icons=true&locale=en&layout=compact" alt="superYM222"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=superym222&show_icons=true&locale=en&layout=compact" alt="superym222" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superym222&show_icons=true&locale=en" alt="superym222" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superym222&" alt="superym222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superym222&" alt="superym222" /></p>
